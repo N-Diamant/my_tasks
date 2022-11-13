@@ -1,0 +1,31 @@
+https://fonts.google.com/specimen/Azeret+Mono?query=azeret+
+
+.app-header{
+  padding:20px;
+
+}
+
+.header{
+  text-align:center;
+  font-family:'Azeret Mono', monospace;
+
+}
+.app-body{
+  padding:20px;
+  text-align:center;
+}
+.app-body Button{
+  text-align:center;
+}
+.language-select{
+  height:40px; 
+  padding:20px !important;
+  margin-bottom:15px;
+  outline:none  !important;
+}
+Form p{
+  text-align:left;
+  font-size:15px;
+  font-weight:bold;
+
+}
